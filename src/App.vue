@@ -23,6 +23,9 @@ import HelloWorld from "./components/HelloWorld.vue";
     </router-link>
 
   </p>
+
+  <h2>第三次更新</h2>
+
   <!-- 命名视图，相当于路由插槽 -->
   <!-- <router-view name="shopTop"></router-view> -->
   <router-view v-slot="{ Component }">
