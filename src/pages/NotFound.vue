@@ -1,0 +1,6 @@
+<template>
+  <div>404,页面未找到！！！</div>
+</template>
+<script>
+</script>
+<style scoped></style>
